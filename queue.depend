@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1591555374 source:c:\users\79194\desktop\ \Коллегия\Инфа\queue\queue\main.cpp
+	"queue_header.h"
+
+1591555610 c:\users\79194\desktop\ \Коллегия\Инфа\queue\queue\queue_header.h
+	<iostream>
+	<cstdlib>
+
+1591555303 source:c:\users\79194\desktop\ \Коллегия\Инфа\queue\queue\queue_source.cpp
+	"queue_header.h"
+
